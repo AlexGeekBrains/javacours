@@ -1,3 +1,5 @@
+package less1;
+
 import org.example.less1.person.Person;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
