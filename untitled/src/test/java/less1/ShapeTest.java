@@ -1,3 +1,5 @@
+package less1;
+
 import org.example.less1.person.Person;
 import org.example.less1.shape.Circle;
 import org.example.less1.shape.Shape;
