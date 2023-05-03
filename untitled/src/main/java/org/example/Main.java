@@ -2,6 +2,13 @@ package org.example;
 
 import org.example.less3.Counter;
 import org.example.less3.PinPong;
+import org.example.less5.SessionFactoryUtils;
+import org.example.less5.Student;
+import org.example.less5.StudentDao;
+import org.example.less5.StudentDaoImpl;
+
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         PinPong pinPong = new PinPong();
